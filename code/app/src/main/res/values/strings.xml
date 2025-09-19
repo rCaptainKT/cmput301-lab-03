@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ListyCityLab3</string>
     <string name="provinceText">Province</string>
-    <string name="cityTest">City</string>
+    <string name="cityText">City</string>
 </resources>

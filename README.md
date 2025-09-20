@@ -1,8 +1,11 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+## Verbal Collaboration
+Due to issues with the built in emulator crashing my laptop repeatedly, this lab is likely to be incomplete. :c
+
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+N/A
 
 ## Verbal Collaboration
 
